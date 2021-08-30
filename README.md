@@ -1,3 +1,8 @@
+<h3 align="center">
+	Construindo um ChatbotFit no Telegram com JavaScript e NodeJS.
+</h3>
+<p align="center">
+Projeto "Construindo um ChatbotFit no Telegram com JavaScript e NodeJS" elaborado no Bootcamp SPTech Desenvolvimento Fullstack - Digital Innovation One. Criado a partir do Webinar do Dev Carlos Victor Gomes.</p>
 
 ## Live Coding - Instruções e auxílios para rodar o projeto
 
